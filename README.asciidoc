@@ -1,0 +1,28 @@
+# Talk - Coding Practice Websites
+
+Talk @ SoCraTes Linz 2018
+
+## What are Coding Practice Websites?
+
+They
+- cover wide range of algorithmic topics
+- give feedback about edge cases and efficiency
+- help building up coding and algorithmic skills
+- are sometimes used within interview process to preselect candidates
+
+## Which topics do they cover?
+
+- Strings
+- Arrays
+- Trees
+- Graphs
+- Hash
+- Big O complexity
+- System Design
+- ...
+
+## Some Websites
+
+- https://www.hackerrank.com
+- https://leetcode.com
+- https://codility.com
